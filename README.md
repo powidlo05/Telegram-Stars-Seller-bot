@@ -1,5 +1,5 @@
 # TelegramStarsBot
-Бот был реализован для продажи (перепродажи) [телеграм звёзд](https://ppc.world/articles/zvezdy-v-telegram-chto-eto-i-pochemu-o-nih-vse-govoryat/).
+Бот для продажи (перепродажи) [телеграм звёзд](https://ppc.world/articles/zvezdy-v-telegram-chto-eto-i-pochemu-o-nih-vse-govoryat/).
 Весь код и инструкция к использованию находятся на моем гитхабе в приватном доступе (смотрите раздел [**Покупка**](#покупка))
 
 ## Покупка
